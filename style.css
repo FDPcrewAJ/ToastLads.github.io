@@ -126,6 +126,11 @@ video {
     height: auto;
 }
 
+.blog-image {
+    width: 150px;
+    float: right;
+}
+
 /* Footer Styles */
 
 footer {
